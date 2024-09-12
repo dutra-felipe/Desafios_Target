@@ -93,9 +93,9 @@ f) 2, 10, 12, 16, 17, 18, 19, __200__
 - a) Sequência de números ímpares.
 - b) Sequência de potências de 2.
 - c) Quadrados perfeitos.
-- d) Quadrados perfeitos multiplicados por 4.
+- d) Quadrados perfeitos pares.
 - e) Sequência de Fibonacci.
-- f) Sequência com um padrão irregular, onde o próximo número parece ser um salto significativo (não há um padrão aritmético claro).
+- f) Sequência de números iniciando com a letra 'D'.
 
 ### 5. Identificação de Interruptores e Lâmpadas
 
